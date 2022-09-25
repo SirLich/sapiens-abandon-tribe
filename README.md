@@ -1,6 +1,6 @@
 # Sapiens Abandon Tribe
 
-This repository contains a mod for the [Sapiens Video Game.](https://store.steampowered.com/app/1060230/Sapiens/). It simply gives you the ability to abandon your current tribe, and select a new one.
+This repository contains a mod for the [Sapiens Video Game](https://store.steampowered.com/app/1060230/Sapiens/). It simply gives you the ability to abandon your current tribe, and select a new one.
 
 ## How to Use
 
