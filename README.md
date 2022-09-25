@@ -4,7 +4,8 @@ This repository contains a mod for the [Sapiens Video Game](https://store.steamp
 
 ## How to Use
 
-Press `SHIFT+BACKSPACE` twice within 10 seconds. You need to press it twice to hopefully prevent idiots from abandoning their tribe accidentally.
+1) Install from Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2863843268
+2) Press `SHIFT+BACKSPACE` twice within 10 seconds. You need to press it twice to hopefully prevent idiots from abandoning their tribe accidentally!
 
 ## Get Support
 
